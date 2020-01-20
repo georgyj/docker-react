@@ -1,0 +1,2 @@
+- Perfrom exec on container to run tests
+    - specify name for container in compose file
